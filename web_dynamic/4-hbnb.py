@@ -1,4 +1,4 @@
-#!/usr/bin/python3i
+#!/usr/bin/python3
 
 """ Startin the Flash Web App """
 from models import storage
